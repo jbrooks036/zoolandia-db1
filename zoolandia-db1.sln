@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8FC882FB-398C-476B-9957-B0A40B5E56AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EAEAEBD-16FB-490D-A52C-C8ABCB3B0756}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "zoolandia-db1", "src\zoolandia-db1\zoolandia-db1.xproj", "{F80E7E08-16AE-49B0-9C6E-719AF7950A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80E7E08-16AE-49B0-9C6E-719AF7950A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80E7E08-16AE-49B0-9C6E-719AF7950A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80E7E08-16AE-49B0-9C6E-719AF7950A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80E7E08-16AE-49B0-9C6E-719AF7950A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F80E7E08-16AE-49B0-9C6E-719AF7950A93} = {8FC882FB-398C-476B-9957-B0A40B5E56AD}
+	EndGlobalSection
+EndGlobal
