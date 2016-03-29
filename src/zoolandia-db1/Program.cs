@@ -1,4 +1,9 @@
-﻿using System.Data.Entity;
+﻿// using System;
+// using System.Collections.Generic;
+// using System.Linq;
+// using System.Data.Entity;
+// using Microsoft.Data.Entity;
+// using System.Core.dll;
 
 namespace zoolandia_db1
 {

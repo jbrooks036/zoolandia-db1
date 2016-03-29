@@ -20,6 +20,9 @@
             "frameworkAssemblies": {
                 "System.Data": "4.0.0.0",
                 "System.Data.Linq": "4.0.0.0"
+            },
+            "dependencies": {
+                "EntityFramework.Core": "7.0.0-beta5"
             }
         },
         "dnxcore50": {
